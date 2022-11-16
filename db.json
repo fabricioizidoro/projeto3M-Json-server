@@ -1,0 +1,34 @@
+{
+  "livros": [
+    {
+      "nome": "O senhor dos Anéis",
+      "autor": " J. R. R. Tolkien",
+      "classificação": 16,
+      "editora": "Martins Fontes",
+      "gênero": "fantasia",
+      "quantidade": 90,
+      "preço": 50,
+      "id": 1
+    },
+    {
+      "nome": "cronicas de gelo e fogo",
+      "autor": "George R. R. martin",
+      "classificação": 18,
+      "editora": "Leya",
+      "tema": "fantasia Medieval",
+      "quantidade": 30,
+      "preço": 80,
+      "id": 2
+    },
+    {
+      "nome": "HunterXHunter",
+      "autor": "Yoshihiro Togashi",
+      "classificação": 12,
+      "editora": "JBC",
+      "gênero": "Aventura",
+      "quantidade": 200,
+      "preço": 26,
+      "id": 3
+    }
+  ]
+}
